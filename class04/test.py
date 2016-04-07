@@ -1,0 +1,7 @@
+print "2**3 = " + str(2**3)
+print "max(1,2,3): " + str(max(1,2,3))
+print "min(1,2,3): " + str(min(1,2,3))
+print "abs(-42): " + str(abs(-42))
+print "type(42): " + str(type(42))
+print "type(4.2): " + str(type(4.2))
+print "type('spam'): " + str(type('spam'))
